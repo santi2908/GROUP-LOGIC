@@ -4,12 +4,6 @@ Este repositorio contiene la implementación de un analizador léxico (lexer) co
 
 Este proyecto fue desarrollado para la asignatura Lenguajes y Compiladores (Periodo Académico 2026-I) de la Universidad Nacional Experimental de Guayana (UNEG).
 
-## Equipo de Desarrollo
-* Santiago Sanchez (C.I: 30.001.012)
-* Nicole García (C.I: 30.809.865)
-* Mauricio Leal (C.I: 30.366.382)
-* Jesús Ramírez (C.I: 31.074.731)
-
 ---
 
 ## Descripción del Lenguaje L-Rust
